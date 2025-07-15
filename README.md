@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/chagit3266/LeetCode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/chagit3266/LeetCode/tree/master/0075-sort-colors) |
+| [0179-largest-number](https://github.com/chagit3266/LeetCode/tree/master/0179-largest-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/chagit3266/LeetCode/tree/master/0055-jump-game) |
+| [0179-largest-number](https://github.com/chagit3266/LeetCode/tree/master/0179-largest-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/chagit3266/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0179-largest-number](https://github.com/chagit3266/LeetCode/tree/master/0179-largest-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -50,4 +53,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/chagit3266/LeetCode/tree/master/0075-sort-colors) |
+| [0179-largest-number](https://github.com/chagit3266/LeetCode/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
