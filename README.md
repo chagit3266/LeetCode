@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/chagit3266/LeetCode/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/chagit3266/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/chagit3266/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 ## Math
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/chagit3266/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0055-jump-game](https://github.com/chagit3266/LeetCode/tree/master/0055-jump-game) |
 ## Greedy
 |  |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/chagit3266/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/chagit3266/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0179-largest-number](https://github.com/chagit3266/LeetCode/tree/master/0179-largest-number) |
 ## Backtracking
