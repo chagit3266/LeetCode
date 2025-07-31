@@ -73,4 +73,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0828-chalkboard-xor-game](https://github.com/chagit3266/LeetCode/tree/master/0828-chalkboard-xor-game) |
+## Depth-First Search
+|  |
+| ------- |
+| [0685-redundant-connection-ii](https://github.com/chagit3266/LeetCode/tree/master/0685-redundant-connection-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0685-redundant-connection-ii](https://github.com/chagit3266/LeetCode/tree/master/0685-redundant-connection-ii) |
+## Union Find
+|  |
+| ------- |
+| [0685-redundant-connection-ii](https://github.com/chagit3266/LeetCode/tree/master/0685-redundant-connection-ii) |
+## Graph
+|  |
+| ------- |
+| [0685-redundant-connection-ii](https://github.com/chagit3266/LeetCode/tree/master/0685-redundant-connection-ii) |
 <!---LeetCode Topics End-->
