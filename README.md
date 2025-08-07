@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/chagit3266/LeetCode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/chagit3266/LeetCode/tree/master/0075-sort-colors) |
+| [0135-candy](https://github.com/chagit3266/LeetCode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/chagit3266/LeetCode/tree/master/0179-largest-number) |
 | [0630-course-schedule-iii](https://github.com/chagit3266/LeetCode/tree/master/0630-course-schedule-iii) |
 | [0828-chalkboard-xor-game](https://github.com/chagit3266/LeetCode/tree/master/0828-chalkboard-xor-game) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/chagit3266/LeetCode/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/chagit3266/LeetCode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/chagit3266/LeetCode/tree/master/0179-largest-number) |
 | [0630-course-schedule-iii](https://github.com/chagit3266/LeetCode/tree/master/0630-course-schedule-iii) |
 ## Hash Table
