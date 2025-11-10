@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0332-reconstruct-itinerary](https://github.com/chagit3266/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [0547-number-of-provinces](https://github.com/chagit3266/LeetCode/tree/master/0547-number-of-provinces) |
 | [0685-redundant-connection-ii](https://github.com/chagit3266/LeetCode/tree/master/0685-redundant-connection-ii) |
 ## Breadth-First Search
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0332-reconstruct-itinerary](https://github.com/chagit3266/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [0547-number-of-provinces](https://github.com/chagit3266/LeetCode/tree/master/0547-number-of-provinces) |
 | [0685-redundant-connection-ii](https://github.com/chagit3266/LeetCode/tree/master/0685-redundant-connection-ii) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/chagit3266/LeetCode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/chagit3266/LeetCode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/chagit3266/LeetCode/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
