@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/chagit3266/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0055-jump-game](https://github.com/chagit3266/LeetCode/tree/master/0055-jump-game) |
+| [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/chagit3266/LeetCode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 ## Greedy
 |  |
 | ------- |
@@ -98,8 +99,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/chagit3266/LeetCode/tree/master/0547-number-of-provinces) |
 | [0685-redundant-connection-ii](https://github.com/chagit3266/LeetCode/tree/master/0685-redundant-connection-ii) |
+| [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/chagit3266/LeetCode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0630-course-schedule-iii](https://github.com/chagit3266/LeetCode/tree/master/0630-course-schedule-iii) |
+| [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/chagit3266/LeetCode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
+## Topological Sort
+|  |
+| ------- |
+| [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/chagit3266/LeetCode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
+## Shortest Path
+|  |
+| ------- |
+| [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/chagit3266/LeetCode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 <!---LeetCode Topics End-->
