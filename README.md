@@ -81,18 +81,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/chagit3266/LeetCode/tree/master/0547-number-of-provinces) |
 | [0685-redundant-connection-ii](https://github.com/chagit3266/LeetCode/tree/master/0685-redundant-connection-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/chagit3266/LeetCode/tree/master/0547-number-of-provinces) |
 | [0685-redundant-connection-ii](https://github.com/chagit3266/LeetCode/tree/master/0685-redundant-connection-ii) |
 ## Union Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/chagit3266/LeetCode/tree/master/0547-number-of-provinces) |
 | [0685-redundant-connection-ii](https://github.com/chagit3266/LeetCode/tree/master/0685-redundant-connection-ii) |
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/chagit3266/LeetCode/tree/master/0547-number-of-provinces) |
 | [0685-redundant-connection-ii](https://github.com/chagit3266/LeetCode/tree/master/0685-redundant-connection-ii) |
 ## Heap (Priority Queue)
 |  |
