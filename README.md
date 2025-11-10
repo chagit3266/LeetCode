@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/chagit3266/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0055-jump-game](https://github.com/chagit3266/LeetCode/tree/master/0055-jump-game) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/chagit3266/LeetCode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/chagit3266/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Greedy
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/chagit3266/LeetCode/tree/master/0547-number-of-provinces) |
 | [0685-redundant-connection-ii](https://github.com/chagit3266/LeetCode/tree/master/0685-redundant-connection-ii) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/chagit3266/LeetCode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/chagit3266/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -111,10 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/chagit3266/LeetCode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/chagit3266/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path
 |  |
 | ------- |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/chagit3266/LeetCode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/chagit3266/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Eulerian Circuit
 |  |
 | ------- |
