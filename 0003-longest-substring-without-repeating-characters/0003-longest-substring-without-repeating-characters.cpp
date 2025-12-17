@@ -11,12 +11,10 @@ public:
 
         for (int i = 0; i < n; i++) {
             int c = s[i];
-            if (last[c] == -1) {
-                last[c] = i;
-            }else if (last[c] >= left) {
+            if (last[c] >= left) {
                 left = last[c] + 1;
             }
-                last[c] = i;
+            last[c] = i;
             if ((i - left + 1) > max) {
                 max = i - left + 1;
             }
