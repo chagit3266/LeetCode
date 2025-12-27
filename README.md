@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/chagit3266/LeetCode/tree/master/0001-two-sum) |
+| [0016-3sum-closest](https://github.com/chagit3266/LeetCode/tree/master/0016-3sum-closest) |
 | [0039-combination-sum](https://github.com/chagit3266/LeetCode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/chagit3266/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/chagit3266/LeetCode/tree/master/0055-jump-game) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/chagit3266/LeetCode/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/chagit3266/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/chagit3266/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/chagit3266/LeetCode/tree/master/0075-sort-colors) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/chagit3266/LeetCode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/chagit3266/LeetCode/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/chagit3266/LeetCode/tree/master/0179-largest-number) |
 | [0630-course-schedule-iii](https://github.com/chagit3266/LeetCode/tree/master/0630-course-schedule-iii) |
