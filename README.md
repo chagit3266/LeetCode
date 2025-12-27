@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/chagit3266/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0071-simplify-path](https://github.com/chagit3266/LeetCode/tree/master/0071-simplify-path) |
 | [0179-largest-number](https://github.com/chagit3266/LeetCode/tree/master/0179-largest-number) |
+| [3163-string-compression-iii](https://github.com/chagit3266/LeetCode/tree/master/3163-string-compression-iii) |
 ## Backtracking
 |  |
 | ------- |
