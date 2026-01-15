@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/chagit3266/LeetCode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/chagit3266/LeetCode/tree/master/0179-largest-number) |
 | [0630-course-schedule-iii](https://github.com/chagit3266/LeetCode/tree/master/0630-course-schedule-iii) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/chagit3266/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0828-chalkboard-xor-game](https://github.com/chagit3266/LeetCode/tree/master/0828-chalkboard-xor-game) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/chagit3266/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Dynamic Programming
