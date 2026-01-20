@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/chagit3266/LeetCode/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/chagit3266/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/chagit3266/LeetCode/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/chagit3266/LeetCode/tree/master/0268-missing-number) |
 | [0828-chalkboard-xor-game](https://github.com/chagit3266/LeetCode/tree/master/0828-chalkboard-xor-game) |
 ## Array
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/chagit3266/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/chagit3266/LeetCode/tree/master/0137-single-number-ii) |
 | [0179-largest-number](https://github.com/chagit3266/LeetCode/tree/master/0179-largest-number) |
+| [0268-missing-number](https://github.com/chagit3266/LeetCode/tree/master/0268-missing-number) |
 | [0630-course-schedule-iii](https://github.com/chagit3266/LeetCode/tree/master/0630-course-schedule-iii) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/chagit3266/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0828-chalkboard-xor-game](https://github.com/chagit3266/LeetCode/tree/master/0828-chalkboard-xor-game) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/chagit3266/LeetCode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/chagit3266/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/chagit3266/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0268-missing-number](https://github.com/chagit3266/LeetCode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/chagit3266/LeetCode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/chagit3266/LeetCode/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/chagit3266/LeetCode/tree/master/0179-largest-number) |
+| [0268-missing-number](https://github.com/chagit3266/LeetCode/tree/master/0268-missing-number) |
 | [0630-course-schedule-iii](https://github.com/chagit3266/LeetCode/tree/master/0630-course-schedule-iii) |
 ## Bit Manipulation
 |  |
@@ -110,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/chagit3266/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/chagit3266/LeetCode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/chagit3266/LeetCode/tree/master/0190-reverse-bits) |
+| [0268-missing-number](https://github.com/chagit3266/LeetCode/tree/master/0268-missing-number) |
 | [0828-chalkboard-xor-game](https://github.com/chagit3266/LeetCode/tree/master/0828-chalkboard-xor-game) |
 | [2683-neighboring-bitwise-xor](https://github.com/chagit3266/LeetCode/tree/master/2683-neighboring-bitwise-xor) |
 ## Brainteaser
@@ -179,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/chagit3266/LeetCode/tree/master/0268-missing-number) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/chagit3266/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Matrix
 |  |
