@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/chagit3266/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/chagit3266/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0268-missing-number](https://github.com/chagit3266/LeetCode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/chagit3266/LeetCode/tree/master/0389-find-the-difference) |
 ## String
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/chagit3266/LeetCode/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/chagit3266/LeetCode/tree/master/0071-simplify-path) |
 | [0179-largest-number](https://github.com/chagit3266/LeetCode/tree/master/0179-largest-number) |
+| [0389-find-the-difference](https://github.com/chagit3266/LeetCode/tree/master/0389-find-the-difference) |
 | [3163-string-compression-iii](https://github.com/chagit3266/LeetCode/tree/master/3163-string-compression-iii) |
 ## Backtracking
 |  |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/chagit3266/LeetCode/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/chagit3266/LeetCode/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/chagit3266/LeetCode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/chagit3266/LeetCode/tree/master/0389-find-the-difference) |
 | [0630-course-schedule-iii](https://github.com/chagit3266/LeetCode/tree/master/0630-course-schedule-iii) |
 ## Bit Manipulation
 |  |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/chagit3266/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/chagit3266/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/chagit3266/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0389-find-the-difference](https://github.com/chagit3266/LeetCode/tree/master/0389-find-the-difference) |
 | [0828-chalkboard-xor-game](https://github.com/chagit3266/LeetCode/tree/master/0828-chalkboard-xor-game) |
 | [2683-neighboring-bitwise-xor](https://github.com/chagit3266/LeetCode/tree/master/2683-neighboring-bitwise-xor) |
 ## Brainteaser
