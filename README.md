@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/chagit3266/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/chagit3266/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/chagit3266/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0231-power-of-two](https://github.com/chagit3266/LeetCode/tree/master/0231-power-of-two) |
 ## Math
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/chagit3266/LeetCode/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/chagit3266/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/chagit3266/LeetCode/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/chagit3266/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/chagit3266/LeetCode/tree/master/0268-missing-number) |
 | [0828-chalkboard-xor-game](https://github.com/chagit3266/LeetCode/tree/master/0828-chalkboard-xor-game) |
 ## Array
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/chagit3266/LeetCode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/chagit3266/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/chagit3266/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/chagit3266/LeetCode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/chagit3266/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/chagit3266/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/chagit3266/LeetCode/tree/master/0287-find-the-duplicate-number) |
