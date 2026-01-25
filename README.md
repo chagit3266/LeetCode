@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/chagit3266/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/chagit3266/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0231-power-of-two](https://github.com/chagit3266/LeetCode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/chagit3266/LeetCode/tree/master/0342-power-of-four) |
 ## Math
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/chagit3266/LeetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/chagit3266/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/chagit3266/LeetCode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/chagit3266/LeetCode/tree/master/0342-power-of-four) |
 | [0828-chalkboard-xor-game](https://github.com/chagit3266/LeetCode/tree/master/0828-chalkboard-xor-game) |
 ## Array
 |  |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/chagit3266/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/chagit3266/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/chagit3266/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/chagit3266/LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/chagit3266/LeetCode/tree/master/0389-find-the-difference) |
 | [0828-chalkboard-xor-game](https://github.com/chagit3266/LeetCode/tree/master/0828-chalkboard-xor-game) |
 | [2683-neighboring-bitwise-xor](https://github.com/chagit3266/LeetCode/tree/master/2683-neighboring-bitwise-xor) |
