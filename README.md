@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/chagit3266/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/chagit3266/LeetCode/tree/master/0342-power-of-four) |
 | [0828-chalkboard-xor-game](https://github.com/chagit3266/LeetCode/tree/master/0828-chalkboard-xor-game) |
+| [1486-xor-operation-in-an-array](https://github.com/chagit3266/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 ## Array
 |  |
 | ------- |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/chagit3266/LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/chagit3266/LeetCode/tree/master/0389-find-the-difference) |
 | [0828-chalkboard-xor-game](https://github.com/chagit3266/LeetCode/tree/master/0828-chalkboard-xor-game) |
+| [1486-xor-operation-in-an-array](https://github.com/chagit3266/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [2683-neighboring-bitwise-xor](https://github.com/chagit3266/LeetCode/tree/master/2683-neighboring-bitwise-xor) |
 ## Brainteaser
 |  |
