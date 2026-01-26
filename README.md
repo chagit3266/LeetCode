@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/chagit3266/LeetCode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/chagit3266/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/chagit3266/LeetCode/tree/master/0137-single-number-ii) |
+| [0152-maximum-product-subarray](https://github.com/chagit3266/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0179-largest-number](https://github.com/chagit3266/LeetCode/tree/master/0179-largest-number) |
 | [0238-product-of-array-except-self](https://github.com/chagit3266/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/chagit3266/LeetCode/tree/master/0260-single-number-iii) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/chagit3266/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/chagit3266/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/chagit3266/LeetCode/tree/master/0070-climbing-stairs) |
+| [0152-maximum-product-subarray](https://github.com/chagit3266/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/chagit3266/LeetCode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/chagit3266/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Greedy
