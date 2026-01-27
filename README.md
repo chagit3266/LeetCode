@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/chagit3266/LeetCode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/chagit3266/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/chagit3266/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0242-valid-anagram](https://github.com/chagit3266/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/chagit3266/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/chagit3266/LeetCode/tree/master/0389-find-the-difference) |
 ## String
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/chagit3266/LeetCode/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/chagit3266/LeetCode/tree/master/0071-simplify-path) |
 | [0179-largest-number](https://github.com/chagit3266/LeetCode/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/chagit3266/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/chagit3266/LeetCode/tree/master/0389-find-the-difference) |
 | [3163-string-compression-iii](https://github.com/chagit3266/LeetCode/tree/master/3163-string-compression-iii) |
 ## Backtracking
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/chagit3266/LeetCode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/chagit3266/LeetCode/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/chagit3266/LeetCode/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/chagit3266/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/chagit3266/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/chagit3266/LeetCode/tree/master/0389-find-the-difference) |
 | [0630-course-schedule-iii](https://github.com/chagit3266/LeetCode/tree/master/0630-course-schedule-iii) |
