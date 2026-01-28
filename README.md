@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chagit3266/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/chagit3266/LeetCode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/chagit3266/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/chagit3266/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/chagit3266/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/chagit3266/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/chagit3266/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/chagit3266/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/chagit3266/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/chagit3266/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/chagit3266/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/chagit3266/LeetCode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/chagit3266/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/chagit3266/LeetCode/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/chagit3266/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/chagit3266/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/chagit3266/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
