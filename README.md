@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/chagit3266/LeetCode/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/chagit3266/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/chagit3266/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/chagit3266/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/chagit3266/LeetCode/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/chagit3266/LeetCode/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/chagit3266/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/chagit3266/LeetCode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/chagit3266/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/chagit3266/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/chagit3266/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/chagit3266/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/chagit3266/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/chagit3266/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/chagit3266/LeetCode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/chagit3266/LeetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/chagit3266/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/chagit3266/LeetCode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/chagit3266/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/chagit3266/LeetCode/tree/master/0242-valid-anagram) |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/chagit3266/LeetCode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/chagit3266/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/chagit3266/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/chagit3266/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/chagit3266/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -257,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/chagit3266/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/chagit3266/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
