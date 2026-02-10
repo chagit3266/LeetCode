@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/chagit3266/LeetCode/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/chagit3266/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/chagit3266/LeetCode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/chagit3266/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/chagit3266/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/chagit3266/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/chagit3266/LeetCode/tree/master/0342-power-of-four) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/chagit3266/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/chagit3266/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/chagit3266/LeetCode/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/chagit3266/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/chagit3266/LeetCode/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/chagit3266/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/chagit3266/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/chagit3266/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/chagit3266/LeetCode/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/chagit3266/LeetCode/tree/master/0086-partition-list) |
+| [0189-rotate-array](https://github.com/chagit3266/LeetCode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/chagit3266/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
