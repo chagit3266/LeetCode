@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/chagit3266/LeetCode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/chagit3266/LeetCode/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/chagit3266/LeetCode/tree/master/0071-simplify-path) |
+| [0125-valid-palindrome](https://github.com/chagit3266/LeetCode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/chagit3266/LeetCode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/chagit3266/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/chagit3266/LeetCode/tree/master/0389-find-the-difference) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/chagit3266/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/chagit3266/LeetCode/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/chagit3266/LeetCode/tree/master/0086-partition-list) |
+| [0125-valid-palindrome](https://github.com/chagit3266/LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/chagit3266/LeetCode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/chagit3266/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
