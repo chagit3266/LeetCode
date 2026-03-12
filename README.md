@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/chagit3266/LeetCode/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/chagit3266/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/chagit3266/LeetCode/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/chagit3266/LeetCode/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/chagit3266/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/chagit3266/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/chagit3266/LeetCode/tree/master/0268-missing-number) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/chagit3266/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/chagit3266/LeetCode/tree/master/0039-combination-sum) |
+| [0089-gray-code](https://github.com/chagit3266/LeetCode/tree/master/0089-gray-code) |
 ## Two Pointers
 |  |
 | ------- |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/chagit3266/LeetCode/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/chagit3266/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/chagit3266/LeetCode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/chagit3266/LeetCode/tree/master/0190-reverse-bits) |
