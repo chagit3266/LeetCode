@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/chagit3266/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/chagit3266/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/chagit3266/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0060-permutation-sequence](https://github.com/chagit3266/LeetCode/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/chagit3266/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/chagit3266/LeetCode/tree/master/0342-power-of-four) |
 ## Math
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/chagit3266/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/chagit3266/LeetCode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/chagit3266/LeetCode/tree/master/0012-integer-to-roman) |
+| [0060-permutation-sequence](https://github.com/chagit3266/LeetCode/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/chagit3266/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/chagit3266/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/chagit3266/LeetCode/tree/master/0189-rotate-array) |
