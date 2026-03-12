@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/chagit3266/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/chagit3266/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/chagit3266/LeetCode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/chagit3266/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/chagit3266/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/chagit3266/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/chagit3266/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/chagit3266/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/chagit3266/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/chagit3266/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Memoization
@@ -285,4 +287,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/chagit3266/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/chagit3266/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/chagit3266/LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
